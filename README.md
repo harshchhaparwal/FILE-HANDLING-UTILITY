@@ -1,10 +1,17 @@
 # FILE-HANDLING-UTILITY
+
 *COMPANY*: CODTECH IT SOLUTIONS 
+
 *NAME*: HARSH CHHAPARWAL
+
 *INTERN ID*: CTO8UBY
+
 *DOMAIN*: JAVA PROGRAMMING 
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: MUZAMMIL AHMED
+
 ##DESCRIPTION: 
  This Java program demonstrates file handling operations, including writing, reading, and modifying a text file using Java’s Files and Paths classes from the java.nio.file package. It performs three main tasks:
 
@@ -32,3 +39,8 @@ Reads and displays the file content.
 Appends new text to the file.
 Reads and prints the modified content to confirm the update.
 This program provides a simple and efficient way to manage text files in Java.
+
+
+
+
+##OUTPUT: ![Image](https://github.com/user-attachments/assets/fd45f574-53c4-4dea-9933-756aaac779cb)
